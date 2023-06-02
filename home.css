@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.nopt
+{
+	font-weight: bolder;
+	color: black;
+	font-size: 20px;
+}
+.logo
+{
+   font-family: 'Playfair Display', serif;
+}
+.p
+{
+ font-size: 30px;
+ color: red;
+
+}
+.une
+{
+	font-size: 25px;
+	color: white;
+}
+.navbar
+{
+	background-image: linear-gradient(to right,#32a0a8,#32a89c,#32a881,#082415);
+}
+.img
+{
+	align:center;
+      }      
+.pi
+{
+	font-size: 20px;
+	color: red;
+}
+.pp
+{
+	background-color: lightcyan;
+}
